@@ -1,0 +1,18 @@
+.asd {
+  height: 40vh;
+
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 77, 246),
+    rgb(0, 255, 149)
+  );
+}
+
+.inputTable {
+  width: 400px;
+  position: absolute;
+  top: 25%;
+}
+
+.a {
+}
